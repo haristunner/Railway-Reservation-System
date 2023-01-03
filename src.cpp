@@ -307,7 +307,7 @@ public:
 
         myfile << "Customer Id: " << Details::Cid << endl;
         myfile << "Customer name: " << Details::name << endl;
-        myfile << "Customer Gender: " << Details::ph_no << endl;
+        myfile << "Customer Mobile Number: " << Details::ph_no << endl;
 
         myfile << "Details" << endl;
         string destination = "";
